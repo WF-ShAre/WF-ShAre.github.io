@@ -16,7 +16,7 @@ layout: default
   </div>
     <div class="child" markdown="0">   
      <a href="https://xxxx">
-            <img class="t0" width="40%" src="/WF-ShAre/WF-ShAre.github.io//images/report-icon.png" alt="Technical report">
+            <img class="t0" width="40%" src="/WF-ShAre/WF-ShAre.github.io/images/report-icon.png" alt="Technical report">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a></div>
 
