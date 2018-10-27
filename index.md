@@ -9,33 +9,33 @@ layout: default
 <div id="container">
   <div id="row">
   <div class="child" markdown="0">
-          <a href="https://wf-share.github.io/ApproxIoT/paper/main.pdf">
+          <a href="https://wf-share.github.io/WF-ShAre/paper/main.pdf">
               <img class="t0" width="40%" src="/WF-ShAre/WF-ShAre.github.io/images/IEEE.png" alt="Paper">
               <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
           </a>
   </div>
     <div class="child" markdown="0">   
-     <a href="https://arxiv.org/abs/1805.05674">
-            <img class="t0" width="40%" src="/WF-ShAre/images/report-icon.png" alt="Technical report">
+     <a href="https://xxxx">
+            <img class="t0" width="40%" src="/WF-ShAre/WF-ShAre.github.io//images/report-icon.png" alt="Technical report">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a></div>
 
   <div class="child" markdown="0">
-  <a href="https://wf-share.github.io/ApproxIoT/docs/bib.md">
-    <img class="t0" width="40%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
+  <a href="https://wf-share.github.io/WF-ShAre/docs/bib.md">
+    <img class="t0" width="40%" src="/WF-ShAre/WF-ShAre.github.io/images/bibtex-icon.png" alt="Bibtex">
     <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
   </a></div>
 
     <div class="child" markdown="0">
     <a href="https://github.com/WF-ShAre/WF-Caching">
-        <img class="t0" width="40%" src="/WF-ShAre/images/github-icon.png" alt="Source code">
+        <img class="t0" width="40%" src="/WF-ShAre/WF-ShAre.github.io/images/github-icon.png" alt="Source code">
         <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
     </a>
     </div>
 
     <div class="child" markdown="0">
-    <a href="https://approxiot.github.io/ApproxIoT/slides/approxIoT.pptx">
-        <img class="t0" width="40%" src="/ApproxIoT/images/ppt.png" alt="Slides">
+    <a href="https://wf-share.github.io/WF-ShAre/slides/approxIoT.pptx">
+        <img class="t0" width="40%" src="/WF-ShAre/WF-ShAre.github.io/images/ppt.png" alt="Slides">
         <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Slides</div>
     </a>
     </div>
