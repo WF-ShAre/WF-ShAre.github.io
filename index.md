@@ -10,7 +10,7 @@ layout: default
   <div id="row">
   <div class="child" markdown="0">
           <a href="https://wf-share.github.io/ApproxIoT/paper/main.pdf">
-              <img class="t0" width="40%" src="/WF-ShAre/images/IEEE.png" alt="Paper">
+              <img class="t0" width="40%" src="/WF-ShAre.github.io/images/IEEE.png" alt="Paper">
               <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
           </a>
   </div>
