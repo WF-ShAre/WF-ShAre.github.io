@@ -9,26 +9,26 @@ layout: default
 <div id="container">
   <div id="row">
   <div class="child" markdown="0">
-          <a href="https://approxiot.github.io/ApproxIoT/paper/main.pdf">
-              <img class="t0" width="40%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
+          <a href="https://wf-share.github.io/ApproxIoT/paper/main.pdf">
+              <img class="t0" width="40%" src="/WF-ShAre/images/IEEE.png" alt="Paper">
               <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
           </a>
   </div>
     <div class="child" markdown="0">   
      <a href="https://arxiv.org/abs/1805.05674">
-            <img class="t0" width="40%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
+            <img class="t0" width="40%" src="/WF-ShAre/images/report-icon.png" alt="Technical report">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a></div>
 
   <div class="child" markdown="0">
-  <a href="https://approxiot.github.io/ApproxIoT/docs/bib.md">
+  <a href="https://wf-share.github.io/ApproxIoT/docs/bib.md">
     <img class="t0" width="40%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
     <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
   </a></div>
 
     <div class="child" markdown="0">
-    <a href="https://github.com/ApproxIoT/ApproxIoT/tree/master/code">
-        <img class="t0" width="40%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
+    <a href="https://github.com/WF-ShAre/WF-Caching">
+        <img class="t0" width="40%" src="/WF-ShAre/images/github-icon.png" alt="Source code">
         <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
     </a>
     </div>
