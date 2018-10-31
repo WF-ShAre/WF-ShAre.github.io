@@ -105,19 +105,20 @@ layout: default
 
 
 # Introduction
-Approximate computing aims for efficient execution of workflows where an approximate output is sufficient instead of the exact output. Thus, approximate computing based on the chosen sample size — can make a systematic tradeoff between the output accuracy and computation efficiency.
-ApproxIoT is a stream analytics system to strike a balance between the two desirable but contradictory design requirements, i.e., achieving low latency for real-time analytics, and efficient utilization of computing resources.
+In this paper we present our framework that addresses issues related to workfow decay by a unique integration of
+the system description, version control, container management and automated deployment techniques.
 
 <div>
-  <img style="text-align:center;" class="img-overivew" src="/ApproxIoT/images/overview.png" alt="overview" style="height: 300px; weight: 1000px;"/>
+  <img style="text-align:center;" class="img-overivew" src="/WF-ShAre.github.io/images/WF-structure.png" alt="overview" style="height: 300px; weight: 1000px;"/>
 </div>
+We introduce image and cache management mechanisms which can greatly improve the performance of the provisioning
+and enactment of our reproducible workflows. We also integrate these mechanisms with the source version control,
+90 and so backward-compatible changes to the task code can be distributed transparently and on-demand across workflow enactment engines, while still keeping the workflows reproducible.
 
-
-In this work, we implemented ApproxIoT using Apache Kafka and its library Kafka Streams to achieve a truly distributed data analytics system. An online stratified reservoir sampling algorithm was implemented on both Edge computing nodes and Datacenter cluster.
 
 # Source Code
 <!-- Source code will be available soon. -->
-The source code of ApproxIoT is available <a href="https://github.com/ApproxIoT/ApproxIoT/tree/master/code"> here </a>
+The source code is available <a href="https://github.com/WF-ShAre/WF-Caching"> here </a>
 <!-- * Cluster deployment <a href="https://github.com/streamapprox/flink-setup"> script </a> -->
 
 <!-- * <a href="https://github.com/streamapprox/spark"> Spark-based implementation </a> -->
