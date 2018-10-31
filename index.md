@@ -109,7 +109,7 @@ In this paper we present our framework that addresses issues related to workfow 
 the system description, version control, container management and automated deployment techniques.
 
 <div>
-  <img style="text-align:center;" class="img-overivew" src="/WF-ShAre.github.io/images/WF-structure.png" alt="overview" style="height: 300px; weight: 800px;"/>
+  <img style="text-align:center;" class="img-overivew" src="/WF-ShAre.github.io/images/WF-structure.png" alt="overview" style="height: 300px; weight: 750px;"/>
 </div>
 We introduce image and cache management mechanisms which can greatly improve the performance of the provisioning
 and enactment of our reproducible workflows. We also integrate these mechanisms with the source version control,
